@@ -1,0 +1,16 @@
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.csprojAssemblyReference.cache
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\View\MainWindow.g.cs
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\App.g.cs
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example_MarkupCompile.cache
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example_MarkupCompile.lref
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\bin\Debug\MVVM_Example.exe.config
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\bin\Debug\MVVM_Example.exe
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\bin\Debug\MVVM_Example.pdb
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\View\MainWindow.baml
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.g.resources
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.csproj.GenerateResource.cache
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.csproj.CoreCompileInputs.cache
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.exe
+C:\Users\nati\source\repos\MVVM_Example\MVVM_Example\obj\Debug\MVVM_Example.pdb
